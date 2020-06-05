@@ -27,8 +27,6 @@ class QuestionView(View):
         question_id = request.POST.get('question-id', 0)
 
         if (question_id == 0):
-            # An invalid question id was sent, something is not right redirect to home
-            # TODO: Log that something is wrong
             return redirect(reverse('index'))
 
         try:
