@@ -33,8 +33,8 @@ In order to find more information about how Django works, please go to the offic
     - [x] Create & Edit surveys
     - [x] Read history logs on the changes
     - [x] View & manage survey results
-   - [] Users:
-    - [] Login & logout
+   - [ ] Users:
+    - [ ] Login & logout
     - [x] Access & finish the survey
 2. - [ ] Switch to Google Material design template instead of django-material to have a better and more robust frontend UI design.
 3. - [ ] Deploy the web application on clound server such as Heroku and AWS:
