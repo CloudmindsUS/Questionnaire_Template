@@ -25,7 +25,7 @@ In order to find more information about how Django works, please go to the offic
 
 ## Functions & TO Do List
 
-1. - [] Upgrade the database structure:
+1. - [ ] Upgrade the database structure:
    - [x] Admin:
     - [x] Register on both backend and the admin pannel
     - [x] Login & logout
@@ -36,22 +36,22 @@ In order to find more information about how Django works, please go to the offic
    - [] Users:
     - [] Login & logout
     - [x] Access & finish the survey
-2. - [] Switch to Google Material design template instead of django-material to have a better and more robust frontend UI design.
-3. - [] Deploy the web application on clound server such as Heroku and AWS:
-    - [] HeroKu:
+2. - [ ] Switch to Google Material design template instead of django-material to have a better and more robust frontend UI design.
+3. - [ ] Deploy the web application on clound server such as Heroku and AWS:
+    - [ ] HeroKu:
       - [x] Finish the local development
       - [x] Modify settings.py so that Django app is ready to publish
       - [x] Add any necessary files/requirements to the app
       - [x] Push Django web app to Git and then to Heroku after Heroku is ready
-      - [-] Gather static files
-      - [] Finish the deploy
-    - [] AWS:
+      - [ ] Gather static files
+      - [ ] Finish the deploy
+    - [ ] AWS:
       - onto Amazon Lightsail
       - onto AWS Elastic Beanstalk
-    - [] Google Cloud:
-      - 1. Finish the local development
-      - 2. Change the local database to a Cloud SQL server & run it locally via a proxy
-      - 3. Modify settings.py so that Django can talk to the new database
-      - 4. Add any other necessary files/requirements to the app
-      - 5. Gather static files
-      - 6. Finish the deploy
+    - [ ] Google Cloud:
+      - Finish the local development
+      - Change the local database to a Cloud SQL server & run it locally via a proxy
+      - Modify settings.py so that Django can talk to the new database
+      - Add any other necessary files/requirements to the app
+      - Gather static files
+      - Finish the deploy
