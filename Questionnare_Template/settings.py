@@ -36,7 +36,6 @@ ALLOWED_HOSTS = ['localhost', '.herokuapp.com']
 INSTALLED_APPS = [
     'questionnaire',
     'material',
-    'whitenoise.runserver_nostatic',
 
     'django.contrib.admin',
     'django.contrib.auth',
